@@ -1,4 +1,4 @@
 # apnacollege-demo
-this is my first git reitory
+this is my first git repository
 <br/>
 Author -Yash 
